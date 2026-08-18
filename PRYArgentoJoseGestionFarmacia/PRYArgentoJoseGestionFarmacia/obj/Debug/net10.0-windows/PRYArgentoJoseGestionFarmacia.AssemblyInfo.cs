@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRYArgentoJoseGestionFarmacia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64d352f73a03dcd4ccfc8f58615babf8690b6e40")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRYArgentoJoseGestionFarmacia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRYArgentoJoseGestionFarmacia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

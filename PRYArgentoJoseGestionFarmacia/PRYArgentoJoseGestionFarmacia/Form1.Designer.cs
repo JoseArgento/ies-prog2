@@ -44,10 +44,10 @@
             btn_modificar = new Button();
             btn_borrar = new Button();
             dgv_farmacia = new DataGridView();
-            btn_buscar = new Button();
             col_medicamento = new DataGridViewTextBoxColumn();
             col_precio = new DataGridViewTextBoxColumn();
             col_stock = new DataGridViewTextBoxColumn();
+            btn_buscar = new Button();
             ((System.ComponentModel.ISupportInitialize)dgv_farmacia).BeginInit();
             SuspendLayout();
             // 
@@ -136,12 +136,13 @@
             label6.AutoSize = true;
             label6.Location = new Point(22, 169);
             label6.Name = "label6";
-            label6.Size = new Size(33, 15);
+            label6.Size = new Size(34, 15);
             label6.TabIndex = 10;
             label6.Text = "Tipo:";
             // 
             // cmb_tipo
             // 
+            cmb_tipo.DropDownStyle = ComboBoxStyle.DropDownList;
             cmb_tipo.FormattingEnabled = true;
             cmb_tipo.Items.AddRange(new object[] { "Venta Libre", "Receta", "Solo laboratorio" });
             cmb_tipo.Location = new Point(112, 166);
@@ -167,6 +168,7 @@
             btn_modificar.TabIndex = 13;
             btn_modificar.Text = "Modificar";
             btn_modificar.UseVisualStyleBackColor = true;
+            btn_modificar.Click += btn_modificar_Click;
             // 
             // btn_borrar
             // 
@@ -176,29 +178,24 @@
             btn_borrar.TabIndex = 14;
             btn_borrar.Text = "Borrar";
             btn_borrar.UseVisualStyleBackColor = true;
+            btn_borrar.Click += btn_borrar_Click;
             // 
             // dgv_farmacia
             // 
             dgv_farmacia.AllowUserToAddRows = false;
             dgv_farmacia.AllowUserToDeleteRows = false;
+            dgv_farmacia.AllowUserToResizeColumns = false;
             dgv_farmacia.AllowUserToResizeRows = false;
             dgv_farmacia.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgv_farmacia.Columns.AddRange(new DataGridViewColumn[] { col_medicamento, col_precio, col_stock });
             dgv_farmacia.Location = new Point(23, 233);
+            dgv_farmacia.MultiSelect = false;
             dgv_farmacia.Name = "dgv_farmacia";
             dgv_farmacia.ReadOnly = true;
             dgv_farmacia.RowHeadersVisible = false;
+            dgv_farmacia.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dgv_farmacia.Size = new Size(249, 150);
             dgv_farmacia.TabIndex = 15;
-            // 
-            // btn_buscar
-            // 
-            btn_buscar.Location = new Point(22, 389);
-            btn_buscar.Name = "btn_buscar";
-            btn_buscar.Size = new Size(165, 23);
-            btn_buscar.TabIndex = 16;
-            btn_buscar.Text = "Buscar Medicamento";
-            btn_buscar.UseVisualStyleBackColor = true;
             // 
             // col_medicamento
             // 
@@ -218,11 +215,22 @@
             col_stock.Name = "col_stock";
             col_stock.ReadOnly = true;
             // 
+            // btn_buscar
+            // 
+            btn_buscar.Location = new Point(22, 389);
+            btn_buscar.Name = "btn_buscar";
+            btn_buscar.Size = new Size(165, 23);
+            btn_buscar.TabIndex = 16;
+            btn_buscar.Text = "Buscar Medicamento";
+            btn_buscar.UseVisualStyleBackColor = true;
+            btn_buscar.Click += btn_buscar_Click;
+            // 
             // frm_gestion_farmacia
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(294, 421);
+            ControlBox = false;
             Controls.Add(btn_buscar);
             Controls.Add(dgv_farmacia);
             Controls.Add(btn_borrar);
@@ -241,6 +249,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "frm_gestion_farmacia";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Gestión Farmacia";
             Load += frm_gestion_farmacia_Load;
             ((System.ComponentModel.ISupportInitialize)dgv_farmacia).EndInit();
