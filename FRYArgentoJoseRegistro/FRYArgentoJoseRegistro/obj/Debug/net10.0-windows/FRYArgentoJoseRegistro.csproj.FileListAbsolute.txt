@@ -1,0 +1,17 @@
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\bin\Debug\net10.0-windows\FRYArgentoJoseRegistro.exe
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\bin\Debug\net10.0-windows\FRYArgentoJoseRegistro.deps.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\bin\Debug\net10.0-windows\FRYArgentoJoseRegistro.runtimeconfig.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\bin\Debug\net10.0-windows\FRYArgentoJoseRegistro.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\bin\Debug\net10.0-windows\FRYArgentoJoseRegistro.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.frm_registrar.resources
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\refint\FRYArgentoJoseRegistro.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgentoJoseRegistro.genruntimeconfig.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\ref\FRYArgentoJoseRegistro.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\FRYArgentoJoseRegistro\FRYArgentoJoseRegistro\obj\Debug\net10.0-windows\FRYArgen.57F57E44.Up2Date

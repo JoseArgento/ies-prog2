@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Documentos\\IES_Prog_2\\FRYArgentoJoseRegistro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C638DC-49AA-CC80-646E-17EE24ECFC5F}|FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro.csproj|c:\\users\\jose_\\onedrive\\documentos\\ies_prog_2\\fryargentojoseregistro\\fryargentojoseregistro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7C638DC-49AA-CC80-646E-17EE24ECFC5F}|FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro.csproj|solutionrelative:fryargentojoseregistro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C638DC-49AA-CC80-646E-17EE24ECFC5F}|FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro.csproj|c:\\users\\jose_\\onedrive\\documentos\\ies_prog_2\\fryargentojoseregistro\\fryargentojoseregistro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C638DC-49AA-CC80-646E-17EE24ECFC5F}|FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro.csproj|solutionrelative:fryargentojoseregistro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Documentos\\IES_Prog_2\\FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro\\Form1.cs",
+              "RelativeDocumentMoniker": "FRYArgentoJoseRegistro\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Documentos\\IES_Prog_2\\FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FRYArgentoJoseRegistro\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T17:25:22.011Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Documentos\\IES_Prog_2\\FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro\\Form1.cs",
+              "RelativeDocumentMoniker": "FRYArgentoJoseRegistro\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Documentos\\IES_Prog_2\\FRYArgentoJoseRegistro\\FRYArgentoJoseRegistro\\Form1.cs",
+              "RelativeToolTip": "FRYArgentoJoseRegistro\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:47:18.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

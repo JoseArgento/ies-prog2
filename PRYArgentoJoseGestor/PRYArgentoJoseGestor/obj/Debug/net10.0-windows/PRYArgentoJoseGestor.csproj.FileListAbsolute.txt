@@ -1,0 +1,17 @@
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\bin\Debug\net10.0-windows\PRYArgentoJoseGestor.exe
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\bin\Debug\net10.0-windows\PRYArgentoJoseGestor.deps.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\bin\Debug\net10.0-windows\PRYArgentoJoseGestor.runtimeconfig.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\bin\Debug\net10.0-windows\PRYArgentoJoseGestor.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\bin\Debug\net10.0-windows\PRYArgentoJoseGestor.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.frm_gestor.resources
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\refint\PRYArgentoJoseGestor.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgentoJoseGestor.genruntimeconfig.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\ref\PRYArgentoJoseGestor.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestor\PRYArgentoJoseGestor\obj\Debug\net10.0-windows\PRYArgen.580BB080.Up2Date

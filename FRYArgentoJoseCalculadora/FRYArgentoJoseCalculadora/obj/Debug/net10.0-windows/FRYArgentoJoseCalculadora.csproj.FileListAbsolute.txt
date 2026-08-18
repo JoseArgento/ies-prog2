@@ -1,0 +1,16 @@
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\bin\Debug\net10.0-windows\FRYArgentoJoseCalculadora.exe
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\bin\Debug\net10.0-windows\FRYArgentoJoseCalculadora.deps.json
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\bin\Debug\net10.0-windows\FRYArgentoJoseCalculadora.runtimeconfig.json
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\bin\Debug\net10.0-windows\FRYArgentoJoseCalculadora.dll
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\bin\Debug\net10.0-windows\FRYArgentoJoseCalculadora.pdb
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.frm_calculadora.resources
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.dll
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\refint\FRYArgentoJoseCalculadora.dll
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.pdb
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\FRYArgentoJoseCalculadora.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseCalculadora\FRYArgentoJoseCalculadora\obj\Debug\net10.0-windows\ref\FRYArgentoJoseCalculadora.dll

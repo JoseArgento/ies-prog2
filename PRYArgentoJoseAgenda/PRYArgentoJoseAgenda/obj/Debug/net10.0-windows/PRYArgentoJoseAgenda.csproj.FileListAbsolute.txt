@@ -1,0 +1,17 @@
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\bin\Debug\net10.0-windows\PRYArgentoJoseAgenda.exe
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\bin\Debug\net10.0-windows\PRYArgentoJoseAgenda.deps.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\bin\Debug\net10.0-windows\PRYArgentoJoseAgenda.runtimeconfig.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\bin\Debug\net10.0-windows\PRYArgentoJoseAgenda.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\bin\Debug\net10.0-windows\PRYArgentoJoseAgenda.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.frm_agenda.resources
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\refint\PRYArgentoJoseAgenda.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgentoJoseAgenda.genruntimeconfig.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\ref\PRYArgentoJoseAgenda.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseAgenda\PRYArgentoJoseAgenda\obj\Debug\net10.0-windows\PRYArgen.863E16F2.Up2Date

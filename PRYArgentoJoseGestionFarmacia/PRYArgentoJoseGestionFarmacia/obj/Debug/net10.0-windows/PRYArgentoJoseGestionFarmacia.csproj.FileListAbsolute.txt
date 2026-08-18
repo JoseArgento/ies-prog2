@@ -1,0 +1,17 @@
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\bin\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.exe
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\bin\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.deps.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\bin\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.runtimeconfig.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\bin\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\bin\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.frm_gestion_farmacia.resources
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\refint\PRYArgentoJoseGestionFarmacia.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgentoJoseGestionFarmacia.genruntimeconfig.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\ref\PRYArgentoJoseGestionFarmacia.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseGestionFarmacia\PRYArgentoJoseGestionFarmacia\obj\Debug\net10.0-windows\PRYArgen.40E39099.Up2Date

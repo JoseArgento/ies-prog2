@@ -1,0 +1,16 @@
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\bin\Debug\net10.0-windows\FRYArgentoJoseConversor.exe
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\bin\Debug\net10.0-windows\FRYArgentoJoseConversor.deps.json
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\bin\Debug\net10.0-windows\FRYArgentoJoseConversor.runtimeconfig.json
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\bin\Debug\net10.0-windows\FRYArgentoJoseConversor.dll
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\bin\Debug\net10.0-windows\FRYArgentoJoseConversor.pdb
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.frm_conversor.resources
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.dll
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\refint\FRYArgentoJoseConversor.dll
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.pdb
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\FRYArgentoJoseConversor.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\FRYArgentoJoseConversor\FRYArgentoJoseConversor\obj\Debug\net10.0-windows\ref\FRYArgentoJoseConversor.dll

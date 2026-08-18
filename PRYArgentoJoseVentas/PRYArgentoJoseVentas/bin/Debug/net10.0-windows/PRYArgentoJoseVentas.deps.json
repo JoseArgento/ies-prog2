@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PRYArgentoJoseVentas/1.0.0": {
+        "runtime": {
+          "PRYArgentoJoseVentas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRYArgentoJoseVentas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

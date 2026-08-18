@@ -1,0 +1,17 @@
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\bin\Debug\net10.0-windows\PRYArgentoJoseVentas.exe
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\bin\Debug\net10.0-windows\PRYArgentoJoseVentas.deps.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\bin\Debug\net10.0-windows\PRYArgentoJoseVentas.runtimeconfig.json
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\bin\Debug\net10.0-windows\PRYArgentoJoseVentas.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\bin\Debug\net10.0-windows\PRYArgentoJoseVentas.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.frm_Ventas.resources
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.csproj.GenerateResource.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\refint\PRYArgentoJoseVentas.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.pdb
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgentoJoseVentas.genruntimeconfig.cache
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\ref\PRYArgentoJoseVentas.dll
+C:\Users\jose_\OneDrive\Documentos\IES_Prog_2\PRYArgentoJoseVentas\PRYArgentoJoseVentas\obj\Debug\net10.0-windows\PRYArgen.0AC9F728.Up2Date
