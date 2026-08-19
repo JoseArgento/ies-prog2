@@ -1,0 +1,17 @@
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\bin\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.exe
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\bin\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.deps.json
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\bin\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.runtimeconfig.json
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\bin\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.dll
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\bin\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.pdb
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.frm_gestion_principal.resources
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.frm_clientes.resources
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.dll
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\refint\pryArgentoJoseGestionIntegral.dll
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.pdb
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\pryArgentoJoseGestionIntegral.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\pryArgentoJoseGestionIntegral\pryArgentoJoseGestionIntegral\obj\Debug\net10.0-windows\ref\pryArgentoJoseGestionIntegral.dll
