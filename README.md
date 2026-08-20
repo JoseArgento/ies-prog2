@@ -29,6 +29,7 @@ manejo de eventos.
 | 8 | Gestor de tareas | Grilla con estados, alta, eliminación y completado |
 | 9 | Farmacia y medicamentos | Gestión de productos y stock |
 | 10 | Sistema integral de gestión | Integración de los temas vistos en un solo proyecto |
+| SP1 | Login de SP1 | Caso práctico con enunciado a resolver |
 
 ---
 
